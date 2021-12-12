@@ -14,4 +14,6 @@ https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_time_to_catastrophe_di
 Usage of this notebook and the micro_cata package requires both of these datasets. 
 
 # micro_cata
-micro_cata can be found o
+micro_cata can be found on https://pypi.org/project/micro-cata/0.0.1/ and on https://github.com/amrodrig72/micro_cata
+
+If you need access to the github repository of micro_cata, send an email requesting access to amrodrig@caltech.edu 
