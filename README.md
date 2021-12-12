@@ -27,4 +27,6 @@ Gamma-ParaEsti: Contains the notebook where we calculate parameter estimates for
 # micro-cata
 micro_cata can be found on https://pypi.org/project/micro-cata/0.0.1/ and on https://github.com/amrodrig72/micro_cata
 
+To install, in your terminal write **pip install micro-cata==0.0.1**
+
 If you need access to the github repository of micro-cata, send an email requesting access to amrodrig@caltech.edu 
