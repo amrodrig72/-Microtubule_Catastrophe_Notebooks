@@ -11,7 +11,18 @@ and
 
 https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_time_to_catastrophe_dic_tidy.csv
 
-Usage of this notebook and the micro-cata package requires both of these datasets. 
+Usage of this notebook and the micro-cata package requires both of these datasets.
+
+# Using the notebook
+This notebook contains four folders. 
+
+Data: Where the relevant data is stored. This folder should be on the same level as Labeled-Unlabeled, Model-Comparison, and Gamma-ParaEsti folders.  
+
+Labeled-Unlabeled: Contains the notebook where we compare time to catastrophe for labeled and unlabeled tubulin using a ECDF plot.
+
+Model-Comparison: Contains the notebook where use a predictive ECDF and difference predictive ECDF plot to assess the gamma distribution and two-step model.
+
+Gamma-ParaEsti: Contains the notebook where we calculate parameter estimates for the gamma distribution model of various concentrations of labeled tubulin. 
 
 # micro-cata
 micro_cata can be found on https://pypi.org/project/micro-cata/0.0.1/ and on https://github.com/amrodrig72/micro_cata
